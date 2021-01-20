@@ -2,7 +2,7 @@
 layout: default
 title:  "I do not want to choose my meals"
 date:   2020-09-19 15:15:15 +0530
-categories: blog
+categories: Blog
 ---
 Staying at the college campus since last July, I became used to not having much choice about what my breakfast, lunch and dinner would be. I went into the mess and just had what was there on the menu that day. I could choose what I eat between the meals, but I used to mostly go for tea or coffee with pakoras.
 

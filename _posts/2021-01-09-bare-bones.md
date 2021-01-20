@@ -2,7 +2,7 @@
 layout: default
 title:  "Bare-bones blogging"
 date:   2021-01-09 15:15:15 +0530
-categories: blog
+categories: Blog
 ---
 I started blogging back in 2012, when I was just 12 years old. Wandering around the internet, I came across Weebly and WordPress. No one around me knew about such platforms. It was the novelty of the idea of having my website that made me start blogging. I have struggled through all these nine years, and I won't lie about that.
 

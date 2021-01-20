@@ -2,7 +2,7 @@
 layout: default
 title:  "Hiding tonight"
 date:   2020-08-28 15:15:15 +0530
-categories: blog
+categories: Blog
 ---
 I rarely continue a habit for more than three days. If it is sleeping on time and getting up early morning, I’ll do it for three nights, and on the fourth night something just gets stuck in my thoughts. I am unable to go to sleep. It’s not like I don’t like sleeping early. I love getting up early after a good night’s sleep. There is no one to ask for my attention at that time. No distractions.
 
