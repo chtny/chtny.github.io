@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Misinformation"
+title:  "misinformation"
 date:   2020-08-04 15:15:15 +0530
 categories: Haiku
 ---
