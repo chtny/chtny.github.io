@@ -13,6 +13,8 @@ Weekly short episodes for the highs and lows; small yet impactful ideas. Occasio
 - [RSS Feed](https://chaitanya.page/feed/podcast)
 
 ## Latest episodes:
+<ul>
 {% for post in site.categories.Podcast %}
-  - {{ post.date | date: "%Y-%m-%d" }}: [{{ post.title }}]({{ post.url | relative_url }})
+	<li>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
+</ul>
