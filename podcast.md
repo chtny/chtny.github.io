@@ -12,7 +12,7 @@ Weekly short episodes for the highs and lows; small yet impactful ideas. Occasio
 - [Listen on my website](https://chaitanya.page/podcast/)
 - [RSS Feed](https://chaitanya.page/feed/podcast)
 
-## Latest episodes:
+<h3>Latest episodes:</h3>
 <ul>
 {% for post in site.categories.Podcast %}
 	<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
