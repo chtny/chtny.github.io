@@ -96,6 +96,12 @@
 	      padding: 25px;
 	      text-align: center;
 	    }
+	    .audio-player {
+	    	margin: 2em 0;
+	    }
+	    .audio-player audio {
+	    	width: 100%;
+	    }
 	    @media (prefers-color-scheme: dark) {
 	      body {
 	        background-color:#01242e;
@@ -135,11 +141,11 @@
 	{% include header.html %}
 	<main>
 		<content>
-			<div>
+			<div class="audio-player">
 				{% if page.podcast_link %}
 				<audio controls>
-					<source src="{{ page.podcast_link }}" type="audio/mpeg">
-					Your browser does not support the audio element.
+					<source src="{{ page.podcast_link }}" type="audio/mpeg" controls>
+					Your browser does not support the audio element!
 				</audio>
 				{% endif %}
 			</div>
