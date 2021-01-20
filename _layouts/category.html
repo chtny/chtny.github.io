@@ -35,23 +35,9 @@
       color: #3273dc;
       /*color: #ff5e6c;*/
     }
-
-    .title {
+    header a {
       text-decoration: none;
       border: 0;
-    }
-
-    .title span {
-      font-weight: 400;
-    }
-
-    .bear::before {
-      content: "ᕦʕ •ᴥ•ʔᕤ";
-      font-weight: 400;
-    }
-    .bear:hover::before {
-      content: "ᕙʕ ಠᴥಠʔᕗ";
-      font-weight: 400;
     }
 
     nav a {
@@ -110,109 +96,6 @@
       padding: 25px;
       text-align: center;
     }
-
-    .helptext {
-      color: #777;
-      font-size: small;
-    }
-
-    .errorlist {
-      color: #eba613;
-      font-size: small;
-    }
-
-    #id_favicon {
-      width: 20px;
-      text-align: center;
-    }
-
-    #date-range,
-    #initial-values {
-      display: none;
-    }
-
-    #date-range:target,
-    #initial-values:target {
-      display: block;
-    }
-
-    /* dashboard post list and analytics */
-    ul.post-list {
-      list-style-type: none;
-      padding: unset;
-    }
-
-    ul.post-list li {
-      display: flex;
-      padding: 10px 0;
-      border-bottom: 1px dashed;
-    }
-
-    ul.post-list li span {
-      flex: 0 0 130px;
-    }
-
-    ul.post-list li span.number {
-      flex: 0 0 50px;
-    }
-
-    ul.post-list li a {
-      flex: max-content;
-    }
-
-    ul.post-list li small {
-      text-align: right;
-      flex: 0 0 115px;
-    }
-
-    /* blog posts */
-    ul.blog-posts {
-      list-style-type: none;
-      padding: unset;
-    }
-
-    ul.blog-posts li {
-      display: flex;
-    }
-
-    ul.blog-posts li span {
-      flex: 0 0 130px;
-    }
-
-    ul.blog-posts li a:visited {
-      color: #8b6fcb;
-    }
-
-    /* discovery feed */
-    ul.discover-posts {
-      list-style-type: none;
-      padding: unset;
-    }
-
-    ul.discover-posts li {
-      display: flex;
-      line-height: 1.2;
-    }
-
-    ul.discover-posts li span {
-      flex: 0 0 40px;
-    }
-
-    ul.discover-posts li a:visited {
-      color: #8b6fcb;
-    }
-
-    ul.discover-posts li div {
-      padding-bottom: 8px;
-    }
-
-    ul.discover-posts li small {
-      color: #777 !important;
-    }
-
-    ul.discover-posts li small a {
-      color: #777 !important;
-    }
     @media (prefers-color-scheme: dark) {
       body {
         background-color:#01242e;
@@ -244,10 +127,6 @@
 
       blockquote {
         color: #ccc;
-      }
-
-      .helptext {
-        color: #aaa;
       }
     }
   </style>
