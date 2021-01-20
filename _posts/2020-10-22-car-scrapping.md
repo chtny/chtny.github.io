@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title:  "Hassle-free car scrapping"
 date:   2020-10-22 15:15:15 +0530
 categories: Blog

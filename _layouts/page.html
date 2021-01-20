@@ -142,15 +142,7 @@
 	<main>
 		<content>
 			<h2>{{ page.title }}</h2>
-			<div class="audio-player">
-				{% if page.podcast_link %}
-				<audio controls>
-					<source src="{{ page.podcast_link }}" type="audio/mpeg" controls>
-					Your browser does not support the audio element!
-				</audio>
-				{% endif %}
-			</div>
-				{{ content }}
+			{{ content }}
 		</content>
 	</main>
 	<footer><a href="mailto:hello@chaitanya.page">hellochaitanya@protonmail.com</a></footer>

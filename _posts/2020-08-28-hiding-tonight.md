@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title:  "Hiding tonight"
 date:   2020-08-28 15:15:15 +0530
 categories: Blog

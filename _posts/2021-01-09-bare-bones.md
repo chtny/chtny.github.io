@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title:  "Bare-bones blogging"
 date:   2021-01-09 15:15:15 +0530
 categories: Blog

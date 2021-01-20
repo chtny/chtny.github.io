@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title:  "I do not want to choose my meals"
 date:   2020-09-19 15:15:15 +0530
 categories: Blog
