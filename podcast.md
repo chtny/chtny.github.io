@@ -15,6 +15,6 @@ Weekly short episodes for the highs and lows; small yet impactful ideas. Occasio
 ## Latest episodes:
 <ul>
 {% for post in site.categories.Podcast %}
-	<li>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+	<li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
