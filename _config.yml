@@ -42,7 +42,7 @@ plugins:
 
 # podcast
 podcast_url: https://chaitanya.page/podcast/
-podcast_album_art: 
+podcast_album_art: /assets/images/chaitanya-podcast.png
 podcast_title: Chaitanya
 podcast_owner: Chaitanya
 podcast_email: hellochaitanya@protonmail.com
