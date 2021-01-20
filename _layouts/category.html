@@ -258,22 +258,11 @@
     <content>
       <div>
         <h2>{{ page.category-name }}</h2>
-          <section>
+          <ul>
             {% for post in site.categories[page.category-name] %}
-              <article">
-                <p>
-                {% if site.date_format %}
-                    {{ post.date | date: site.date_format }}
-                {% else %}
-                    {{ post.date | date: "%b %-d, %Y" }}
-                {% endif %}
-               </p>
-                <a href="{{ post.url | relative_url }}">
-                  <h3>{{ post.title }}</h3>
-                </a>
-              </article>
+            <li>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 						{% endfor %}
-          </section>
+          </ul>
       </div>
     </content>
   </main>
