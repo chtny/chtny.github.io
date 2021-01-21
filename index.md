@@ -10,3 +10,7 @@ Mastodon: <a rel="me" href="https://fosstodon.org/@chaitanya">@chaitanya@fosstod
 Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)
 
 Have a good day!
+
+PS - The following domains are currently available for purchase:
+- [ugh.design](https://www.namecheap.com/domains/marketplace/buy-domains?keyword=ugh.design)
+- [thedump.site](https://www.namecheap.com/domains/marketplace/buy-domains?keyword=thedump.site)
