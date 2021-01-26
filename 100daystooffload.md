@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag-name: 100 Days To Offload
+tag-name: 100DaysToOffload
 permalink: "/tag/100daystooffload"
 ---
