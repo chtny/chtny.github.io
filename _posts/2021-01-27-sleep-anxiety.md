@@ -14,4 +14,4 @@ But given that I am already in that spiral, why should I not give 100 Days To Of
 
 <hr>
 
-This post is Day 001 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge. If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).
+<small>This post is Day 001 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge. If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).</small>
