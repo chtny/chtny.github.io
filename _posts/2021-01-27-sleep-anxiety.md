@@ -12,4 +12,6 @@ Here is the obvious fix to *my* sleep anxiety: MENTALLY PREPARE MYSELF FOR SLEEP
 
 But given that I am already in that spiral, why should I not give 100 Days To Offload a second go? **Doing something I have been stalling for a long time somehow helps me to sleep too.** I will try to refine my writing going forward. For the time being this series is just going to be about offloading as raw as it comes.
 
+<hr>
+
 This post is Day 001 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge. If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).
