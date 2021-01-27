@@ -5,8 +5,8 @@ date:   2021-01-27 02:00:00 +0530
 categories: Blog
 tags: 100DaysToOffload
 ---
-**sleep**: to rest in a state of reduced consciousness<br>
-**anxiety**: an unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event
+> **sleep**: to rest in a state of reduced consciousness<br>
+> **anxiety**: an unpleasant state of mental uneasiness, nervousness, apprehension and obsession or concern about some uncertain event
 
 Here is the obvious fix to *my* sleep anxiety: MENTALLY PREPARE MYSELF FOR SLEEPING AT THE SAME TIME EVERY DAY. But it is definitely not as easy as it may sound. An even better fix: WAKE UP EARLY AT THE SAME TIME EVERY DAY. This way, I get tired by the time I have to sleep, and I can fall off without giving my mind time to go into an endless spiral.
 
