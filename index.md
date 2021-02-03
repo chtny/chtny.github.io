@@ -15,6 +15,3 @@ Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chait
 Also, the following domains are currently available for purchase:
 - [ugh.design](https://www.namecheap.com/domains/marketplace/buy-domains?keyword=ugh.design)
 - [thedump.site](https://www.namecheap.com/domains/marketplace/buy-domains?keyword=thedump.site)
-
-For buying new domains, [I recommend Gandi.net](https://gandi.link/f/fc1d3bc5).<br>
-(referral link, get 20% off on domain names!)
