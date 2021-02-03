@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects
 ---
 ## Link Magazine
-![[https://chaitanya.page/assets/images/link-magazine.png]]
+![12 sample pages from the Link Magazine](https://chaitanya.page/assets/images/link-magazine.png)
 
 *2 weeks in March 2020* 
 
