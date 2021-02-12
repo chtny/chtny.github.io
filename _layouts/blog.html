@@ -2,9 +2,9 @@
 <body>
 	{% include header.html %}
 	<main>
+		<h2>{{ page.title }}</h2>
+		<p>{{ page.date | date: "%Y-%m-%d" }}</p>
 		<content>
-			<h2>{{ page.title }}</h2>
-			<p>{{ post.date | date: "%Y-%m-%d" }}</p>
 			{{ content }}
 		</content>
 	</main>
