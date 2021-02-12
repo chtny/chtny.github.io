@@ -8,7 +8,6 @@ I can’t say I love to read, listen and watch but I do read books and articles,
 
 Have a good day!
 
-Newsletter: [Spectator (Highly opinionated cricket commentary)](https://spectator.substack.com/)<br>
 Mastodon: <a rel="me" href="https://fosstodon.org/@chaitanya">@chaitanya@fosstodon.org</a><br>
 Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)
 
