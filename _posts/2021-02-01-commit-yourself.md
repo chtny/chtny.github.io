@@ -19,4 +19,4 @@ Instead, if you are [receiving the newsletter](https://spectator.substack.com/) 
 
 <hr>
 
-<small>This post is Day 006 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.<br>If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).</small>
+<small>This post is Day 006 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.</small>

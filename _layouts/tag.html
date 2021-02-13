@@ -5,6 +5,7 @@
     <content>
       <div>
         <h2>#{{ page.tag-name }}</h2>
+          {{ page.content }}
           <ul>
             {% for post in site.tags[page.tag-name] %}
             <li>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>

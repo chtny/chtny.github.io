@@ -13,4 +13,4 @@ If I could back eight years, I would tell this to my younger self, and maybe the
 
 <hr>
 
-<small>This post is Day 005 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.<br>If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).</small>
+<small>This post is Day 005 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.</small>

@@ -19,4 +19,4 @@ I know I create barriers for myself. But even if I break them where should I eve
 
 <hr>
 
-<small>This post is Day 003 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.<br>If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).</small>
+<small>This post is Day 003 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.</small>

@@ -9,4 +9,4 @@ There are many different and conflicting ideologies to choose from in our world.
 
 <hr>
 
-<small>This post is Day 008 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.<br>If you want to get involved, you can get more info from [100daystooffload.com](https://100daystooffload.com/).</small>
+<small>This post is Day 008 of my [#100DaysToOffload](https://chaitanya.page/tag/100daystooffload) challenge.</small>
