@@ -12,7 +12,9 @@ plugins:
 feed:
   categories:
     - Blog
+      path: /feed/blog.xml
     - Haiku
+      path: /feed/haiku.xml
 # podcast
 podcast_url: https://chaitanya.page/podcast/
 podcast_album_art: https://chaitanya.page/assets/images/chaitanya-podcast.png
