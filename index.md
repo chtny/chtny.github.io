@@ -8,5 +8,11 @@ I can’t say I love to read, listen and watch but I do read books and articles,
 
 Have a good day!
 
-Mastodon: <a rel="me" href="https://fosstodon.org/@chaitanya">@chaitanya@fosstodon.org</a><br>
-Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)
+- Blog: [/blog/](https://chaitanya.page/blog/)
+- Podcast: [/podcast/](https://chaitanya.page/podcast/)
+- Haiku: [/haiku/](https://chaitanya.page/haiku/)
+- Consumes This (blog): [consumesthis.com](https://consumesthis.com/)
+- Ugh (blog): [ugh.design](http://ugh.design/)
+- Mastodon: [@chaitanya@fosstodon.org](https://fosstodon.org/@chaitanya) \[[RSS](https://fosstodon.org/@chaitanya.rss)]
+- Pixelfed: [@chaitanya@pixelfed.social](https://pixelfed.social/chaitanya) \[[RSS](https://pixelfed.social/users/chaitanya.atom)]
+- Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)
