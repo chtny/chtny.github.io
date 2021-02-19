@@ -11,8 +11,6 @@ Have a good day!
 - Blog: [/blog/](https://chaitanya.page/blog/) \[[RSS](https://chaitanya.page/feed.xml)]
 - Podcast: [/podcast/](https://chaitanya.page/podcast/) \[[RSS](https://chaitanya.page/feed/podcast)]
 - Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/feed.xml)]
-- Consumes This (blog): [consumesthis.com](https://consumesthis.com/) \[[RSS](https://consumesthis.com/feed.xml)]
-- Ugh (blog): [ugh.design](http://ugh.design/) \[[RSS](https://ugh.design/feed.xml)]
 - Mastodon: [@chaitanya@fosstodon.org](https://fosstodon.org/@chaitanya) \[[RSS](https://fosstodon.org/@chaitanya.rss)]
 - Pixelfed: [@chaitanya@pixelfed.social](https://pixelfed.social/chaitanya) \[[RSS](https://pixelfed.social/users/chaitanya.atom)]
 - Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)
