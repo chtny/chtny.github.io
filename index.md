@@ -8,13 +8,13 @@ I can’t say I love to read, listen and watch but I do read books and articles,
 
 Have a good day!
 
-- Blog: [/blog/](https://chaitanya.page/blog/) \[[RSS](https://chaitanya.page/feed.xml)]
+- Blog: [/blog/](https://chaitanya.page/blog/) \[[RSS](https://chaitanya.page/rss)]
 - Podcast: [/podcast/](https://chaitanya.page/podcast/) \[[RSS](https://chaitanya.page/feed/podcast)]
-- Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/feed.xml)]
+- Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/rss)]
 
 ---
 
-- Consumes This: [consumesthis.com](https://consumesthis.com/) \[[RSS](https://consumesthis.com/feed)]
+- Consumes This: [consumesthis.com](https://consumesthis.com/) \[[RSS](https://consumesthis.com/rss)]
 - Ugh: [ugh.design](https://ugh.design/) \[[RSS](https://ugh.design/rss)]
 - The Dumpsite: [thedump.site](https://thedump.site/) \[[RSS](https://thedump.site/rss)]
 - Worthless Shop: *coming soon*
