@@ -23,7 +23,7 @@ Have a good day!
 ---
 
 - Mastodon: [@chaitanya@fosstodon.org](https://fosstodon.org/@chaitanya) \[[RSS](https://fosstodon.org/@chaitanya.rss)]
-- Twitter: [@worthlessshop]https://twitter.com/worthlessshop() \[[RSS](https://nitter.42l.fr/worthlessshop/rss)]
+- Twitter: [@worthlessshop](https://twitter.com/worthlessshop) \[[RSS](https://nitter.42l.fr/worthlessshop/rss)]
 - Pixelfed: [@chaitanya@pixelfed.social](https://pixelfed.social/chaitanya) \[[RSS](https://pixelfed.social/users/chaitanya.atom)]
 
 ---
