@@ -10,6 +10,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 feed:
+  path: /rss
+  tags:
+    path: "/feed/<TAG>"
   categories:
     - Blog
     - Haiku
