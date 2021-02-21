@@ -19,6 +19,7 @@ Have a good day!
 - The Dumpsite: [thedump.site](https://thedump.site/) \[[RSS](https://thedump.site/rss)]
 - Worthless Shop: *coming soon*
 - Endless Void of Space: *coming soon*
+- Rock Music Bar: *coming soon*
 
 ---
 
