@@ -15,11 +15,6 @@ Have a good day!
 ---
 
 - Consumes This: [consumesthis.com](https://consumesthis.com/) \[[RSS](https://consumesthis.com/rss)]
-- Ugh: [ugh.design](https://ugh.design/) \[[RSS](https://ugh.design/rss)]
-- The Dumpsite: [thedump.site](https://thedump.site/) \[[RSS](https://thedump.site/rss)]
-- Worthless Shop: *coming soon*
-- Endless Void of Space: *coming soon*
-- Rock Music Bar: *coming soon*
 
 ---
 
