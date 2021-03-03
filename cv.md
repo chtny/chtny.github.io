@@ -5,11 +5,9 @@ permalink: /cv
 ---
 ---
 ### Chaitanya
-Email: hello@chaitanya.page
-Primary Location: Guwahati, India
-Secondary Location: Chandigarh, India
-
-Seacula quarta decima et quinta decima Eodem modo typi. Modo typi qui nunc nobis videntur parum clari. Quam littera gothica quam nunc parum claram anteposuerit.
+- Email: hello@chaitanya.page
+- Primary Location: Guwahati, India
+- Secondary Location: Chandigarh, India
 
 ### Experience
 
