@@ -8,6 +8,10 @@ I can’t say I love to read, listen and watch but I do read books and articles,
 
 Have a good day!
 
+- Email: [hello@chaitanya.page](mailto:hello@chaitanya.page)
+
+---
+
 - Blog: [/blog/](https://chaitanya.page/blog/) \[[RSS](https://chaitanya.page/rss)]
 - Podcast: [/podcast/](https://chaitanya.page/podcast/) \[[RSS](https://chaitanya.page/feed/podcast)]
 - Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/rss)]
