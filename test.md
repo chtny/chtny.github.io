@@ -5,7 +5,7 @@ permalink: /test
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ldU1WohPhIc" ></iframe>
 
-<iframe width=700 height=500 src="https://www.youtube.com/live_chat?v=ldU1WohPhIc&embed_domain=ishanya.design"></iframe>
+<iframe width=700 height=500 src="https://www.youtube.com/live_chat?v=ldU1WohPhIc&embed_domain=chaitanya.page"></iframe>
 
 <div class="iframe-container"><iframe loading="lazy" src="https://www.youtube.com/embed/ldU1WohPhIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -25,7 +25,7 @@ permalink: /test
 }
 ```
 
-<div class="iframe-container"><iframe loading="lazy" src="https://www.youtube.com/live_chat?v=ldU1WohPhIc&amp;embed_domain=ishanya.design"></iframe></div>
+<div class="iframe-container"><iframe loading="lazy" src="https://www.youtube.com/live_chat?v=ldU1WohPhIc&amp;embed_domain=chaitanya.page"></iframe></div>
 
 ```
 .iframe-container {
