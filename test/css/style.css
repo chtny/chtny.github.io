@@ -118,6 +118,16 @@ a, button {
     transition: 0.25s;
 }
 
+#buy_tickets #eye:hover {
+    width: 250px;
+    top: calc(50vh - 125px);
+    right: -7.5%;
+}
+
+#buy_tickets:hover {
+    cursor: pointer;
+}
+
 /* XSmall devices */
 @media (max-width: 576px) {
     .header {
