@@ -136,28 +136,28 @@ a, button {
 
 .past_speakers {
     position: absolute;
-    bottom: -25px;
+    bottom: -10px;
 }
 
 /* VIDEO */
 
 .videos {
     position: absolute;
-    bottom: -25px;
+    bottom: -10px;
 }
 
 /* SPONSORS */
 
 .sponsors {
     position: absolute;
-    bottom: -25px;
+    bottom: -10px;
 }
 
 /* CONTACT */
 
 .contact {
     position: absolute;
-    bottom: -25px;
+    bottom: -10px;
 }
 
 .contact_details {
