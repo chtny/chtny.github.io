@@ -245,9 +245,9 @@ a, button {
         z-index: 100;
     }
     #buy_tickets #buy {
-        width: 325px;
+        width: 280px;
         top: calc(100vh - 240px);
-        right: calc(50vw - 162.5px);
+        right: calc(50vw - 140px);
     }
     #buy_tickets #eye {
         width: 230px;
