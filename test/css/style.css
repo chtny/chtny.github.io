@@ -109,10 +109,6 @@ a, button {
     z-index: 10;
 }
 
-.col {
-    max-width: 256px;
-}
-
 .col-2 {
     margin-top: 128px;
 }
@@ -136,28 +132,64 @@ a, button {
 
 .past_speakers {
     position: absolute;
-    bottom: -10px;
+    bottom: -25px;
+}
+
+.past_speakers h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
 }
 
 /* VIDEO */
 
 .videos {
     position: absolute;
-    bottom: -10px;
+    bottom: -25px;
+}
+
+.videos h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
 }
 
 /* SPONSORS */
 
 .sponsors {
     position: absolute;
-    bottom: -10px;
+    bottom: -25px;
+}
+
+.sponsors h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
 }
 
 /* CONTACT */
 
 .contact {
     position: absolute;
-    bottom: -10px;
+    bottom: -25px;
+}
+
+.contact h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
 }
 
 .contact_details {
@@ -172,15 +204,6 @@ a, button {
     background-image: url("/images/ishanya_pattern.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-
-.heading2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
 }
 
 /* PATTERN */
@@ -221,35 +244,6 @@ a, button {
     transition: 0.25s;
 }
 
-.scroll-1,.scroll-2,.scroll-3,.scroll-4 {
-    width: 100%;
-    height: 15vh;
-    overflow: auto;
-    white-space: nowrap;
-}
-
-.scroll-1 {
-    margin-left: 235px;
-    width: calc(100vw - 235px);
-}
-.scroll-2 {
-    margin-left: 215px;
-    width: calc(100vw - 215px);
-}
-.scroll-3 {
-    margin-left: 195px;
-    width: calc(100vw - 195px);
-}
-.scroll-4 {
-    margin-left: 175px;
-    width: calc(100vw - 175px);
-}
-.scroll img {
-    height: 15vh;
-    margin: 0;
-    padding: 0;
-}
-
 /* XSmall devices */
 @media (max-width: 576px) {
     .header {
@@ -275,7 +269,7 @@ a, button {
     }
     #buy_tickets #buy {
         width: 280px;
-        top: calc(100vh - 260px);
+        top: calc(100vh - 220px);
         right: calc(50vw - 140px);
     }
     #buy_tickets #eye {
