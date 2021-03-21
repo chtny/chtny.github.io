@@ -260,6 +260,14 @@ a, button {
     .home {
         text-align: center;
     }
+    .home h2 {
+        font-size: 18px;
+        line-height: 27.5px;
+    }
+    .home p {
+        font-size: 18px;
+        line-height: 22px;
+    }
     #buy_tickets #buy {
         width: 325px;
         top: calc(100vh - 240px);
@@ -295,6 +303,14 @@ a, button {
     .home {
         text-align: center;
     }
+    .home h2 {
+        font-size: 18px;
+        line-height: 27.5px;
+    }
+    .home p {
+        font-size: 18px;
+        line-height: 22px;
+    }
     #buy_tickets #buy {
         width: 325px;
         top: calc(100vh - 240px);
@@ -328,6 +344,15 @@ a, button {
     }
     .home {
         text-align: center;
+    }
+    .home h2 {
+        font-size: 21px;
+        line-height: 32px;
+    }
+    
+    .home p {
+        font-size: 21px;
+        line-height: 25.6px;
     }
     #buy_tickets #buy, #buy_tickets #eye {
         display: none;
