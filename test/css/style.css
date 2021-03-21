@@ -223,25 +223,29 @@ a, button {
 
 .scroll-1,.scroll-2,.scroll-3,.scroll-4 {
     width: 100%;
-    height: 20vh;
+    height: 15vh;
     overflow: auto;
     white-space: nowrap;
 }
-/**/
+
 .scroll-1 {
     margin-left: 235px;
+    width: calc(100vw - 235px);
 }
 .scroll-2 {
     margin-left: 215px;
+    width: calc(100vw - 215px);
 }
 .scroll-3 {
     margin-left: 195px;
+    width: calc(100vw - 195px);
 }
 .scroll-4 {
     margin-left: 175px;
+    width: calc(100vw - 175px);
 }
 .scroll img {
-    height: 20vh;
+    height: 15vh;
     margin: 0;
     padding: 0;
 }
