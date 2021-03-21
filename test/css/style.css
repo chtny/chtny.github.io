@@ -260,8 +260,15 @@ a, button {
     .home {
         text-align: center;
     }
-    #buy_tickets #buy, #buy_tickets #eye {
-        display: none;
+    #buy_tickets #buy {
+        width: 325px;
+        top: calc(100vh - 240px);
+        right: calc(50vw - 162.5px);
+    }
+    #buy_tickets #eye {
+        width: 230px;
+        top: calc(100vh - 190px);
+        right: calc(50vw - 115px);
     }
     .col-2 {
         margin-top: 48px;
