@@ -139,29 +139,11 @@ a, button {
     bottom: -25px;
 }
 
-.past_speakers h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
 /* VIDEO */
 
 .videos {
     position: absolute;
     bottom: -25px;
-}
-
-.videos h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
 }
 
 /* SPONSORS */
@@ -171,29 +153,11 @@ a, button {
     bottom: -25px;
 }
 
-.sponsors h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
 /* CONTACT */
 
 .contact {
     position: absolute;
     bottom: -25px;
-}
-
-.contact h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
 }
 
 .contact_details {
@@ -208,6 +172,15 @@ a, button {
     background-image: url("/images/ishanya_pattern.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.heading2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
 }
 
 /* PATTERN */
@@ -305,6 +278,14 @@ a, button {
     .col-5 {
         display: hidden;
     }
+    .heading2 {
+        margin-left: 30px;
+        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        color: #F8C57A;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -364,6 +345,14 @@ a, button {
     .col-5 {
         display: hidden;
     }
+    .heading2 {
+        margin-left: 30px;
+        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 48px;
+        color: #F8C57A;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -408,7 +397,7 @@ a, button {
         z-index: 10;
     }
     .container {
-    padding: 60px;
+    padding: 30px;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(1, 1fr);
@@ -468,6 +457,14 @@ a, button {
     
     .col-4 {
         margin-top: 384px;
+    }
+    .heading2 {
+        margin-left: 60px;
+        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 64px;
+        color: #F8C57A;
     }
 }
 
