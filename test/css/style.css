@@ -302,6 +302,9 @@ a, button {
     .col-4 {
         margin-top: 144px;
     }
+    .col-5 {
+        display: hidden;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -337,6 +340,16 @@ a, button {
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
     }
+    .container {
+        padding: 10px;
+        display: grid;
+        grid-template-columns: repeat(4, 96px);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        z-index: 10;
+        overflow-x: scroll;
+    }
     .col-2 {
         margin-top: 64px;
     }
@@ -347,6 +360,9 @@ a, button {
     
     .col-4 {
         margin-top: 192px;
+    }
+    .col-5 {
+        display: hidden;
     }
 }
 
@@ -382,6 +398,24 @@ a, button {
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
     }
+    .container {
+        padding: 60px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        z-index: 10;
+    }
+    .container {
+    padding: 60px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    z-index: 10;
+}
     .col-2 {
         margin-top: 76.8px;
     }
@@ -392,6 +426,9 @@ a, button {
     
     .col-4 {
         margin-top: 230.4px;
+    }
+    .col-5 {
+        display: hidden;
     }
 }
 
