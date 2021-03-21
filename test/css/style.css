@@ -1,0 +1,334 @@
+* {
+    font-family: 'Barlow', sans-serif;
+    color: #ffffff;
+}
+
+.section {
+    background-color: #1C0C2D;
+}
+
+.header {
+    margin-left: 120px;
+}
+
+#logo {
+    width: 500px;
+}
+
+.home h1 {
+    display: none;
+}
+
+.home h2 {
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    letter-spacing: -0.1px;
+}
+
+.home p {
+    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25.6px;
+}
+
+.paracut {
+    max-width: 525px;
+    margin: auto;
+}
+
+.home a {
+    color: #6DE2D5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home a:hover {
+    color: #ffffff;
+}
+
+.early {
+    margin-left: 60vw;
+}
+
+.tickets h2 {
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 32px;
+    letter-spacing: -0.1px;
+}
+
+.tickets p {
+    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 21px;
+    width: 350px;
+}
+
+.tickets button {
+    border: none;
+    background-color: #1C0C2D;
+    padding: 0;
+    margin: 15px 0 0 0;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 51px;
+    color: #1C0C2D;
+    -webkit-text-stroke-color: #6DE2D5;
+    -webkit-text-stroke-width: 2px;
+    letter-spacing: 2px;
+}
+
+a, button {
+    cursor: pointer;
+}
+
+.ticket_mock img {
+    height: 240px;
+}
+
+.ticket_mock {
+    position: absolute;
+    margin-top: calc(50vh - 120px);
+}
+
+/* PAST SPEAKERS */
+
+.container {
+    padding: 60px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    z-index: 10;
+}
+
+.col-2 {
+    margin-top: 128px;
+}
+
+.col-3 {
+    margin-top: 256px;
+}
+
+.col-4 {
+    margin-top: 384px;
+}
+
+.col img {
+    display: block;
+    width: 100%;
+    max-width: 256px;
+    padding: 0;
+    margin: 0;
+    box-shadow: inset 0 0 22px #F4AAB9;
+}
+
+.past_speakers {
+    position: absolute;
+    bottom: -25px;
+}
+
+.past_speakers h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
+}
+
+/* VIDEO */
+
+.videos {
+    position: absolute;
+    bottom: -25px;
+}
+
+.videos h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
+}
+
+/* SPONSORS */
+
+.sponsors {
+    position: absolute;
+    bottom: -25px;
+}
+
+.sponsors h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
+}
+
+/* CONTACT */
+
+.contact {
+    position: absolute;
+    bottom: -25px;
+}
+
+.contact h2 {
+    margin-left: 60px;
+    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 64px;
+    color: #F8C57A;
+}
+
+.contact_details {
+    margin-left: 60px;
+    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25.6px;
+}
+
+.section {
+    background-image: url("/images/ishanya_pattern.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* PATTERN */
+
+.pattern {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 5 !important;
+    left: 60px;
+    height: 100vh;
+}
+
+.section {
+    z-index: -5;
+}
+
+.section > * {
+    z-index: 10 !important;
+}
+
+#buy_tickets #buy {
+    position: absolute;
+    width: 420px;
+    top: calc(50vh - 210px);
+    right: -15%;
+    animation: rotation 20s infinite linear;
+    z-index: 5;
+    transition: 0.25s;
+}
+
+#buy_tickets #eye {
+    position: absolute;
+    width: 300px;
+    top: calc(50vh - 150px);
+    right: -10%;
+    z-index: 10;
+    transition: 0.25s;
+}
+
+/* XSmall devices */
+@media (max-width: 576px) {
+    .header {
+        margin-left: 0;
+    }
+    #logo {
+        width: 300px;
+    }
+    .home {
+        text-align: center;
+    }
+    #buy_tickets #buy, #buy_tickets #eye {
+        display: none;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .header {
+        margin-left: 0;
+    }
+    #logo {
+        width: 350px;
+    }
+    .home {
+        text-align: center;
+    }
+    #buy_tickets #buy, #buy_tickets #eye {
+        display: none;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .header {
+        margin-left: 0;
+    }
+    #logo {
+        width: 400px;
+    }
+    .home {
+        text-align: center;
+    }
+    #buy_tickets #buy, #buy_tickets #eye {
+        display: none;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .home {
+        text-align: left;
+    }
+    .paracut {
+        margin-left: 0;
+    }
+    .header {
+        margin-left: 120px;
+    }
+    #logo {
+        width: 500px;
+    }
+    #buy_tickets #buy, #buy_tickets #eye {
+        display: none;
+    }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    #buy_tickets #buy, #buy_tickets #eye {
+        display: block;
+    }
+    .home {
+        text-align: left;
+    }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+}
