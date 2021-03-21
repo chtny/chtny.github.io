@@ -482,7 +482,14 @@ a, button {
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) {}
+@media (min-width: 1400px) {
+    #buy_tickets #buy {
+        right: -10%;
+    }
+    #buy_tickets #eye {
+        right: -5%;
+    }
+}
 
 @keyframes rotation {
     from {
