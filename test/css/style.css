@@ -248,6 +248,7 @@ a, button {
 @media (max-width: 576px) {
     .header {
         margin-left: 0;
+        margin-top: -150px;
     }
     #logo {
         width: 300px;
@@ -264,6 +265,7 @@ a, button {
 @media (min-width: 576px) {
     .header {
         margin-left: 0;
+        margin-top: -150px;
     }
     #logo {
         width: 350px;
@@ -301,18 +303,22 @@ a, button {
         margin-left: 0;
     }
     .header {
-        margin-left: 120px;
+        margin-left: 60px;
+        margin-top: 0;
     }
     #logo {
         width: 500px;
     }
     #buy_tickets #buy, #buy_tickets #eye {
-        display: none;
+        display: block;
     }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+    .header {
+        margin-left: 120px;
+    }
     #buy_tickets #buy, #buy_tickets #eye {
         display: block;
     }
