@@ -99,7 +99,7 @@ a, button {
     margin-top: calc(50vh - 120px);
 }
 
-.buy_tickets #buy {
+#buy_tickets #buy {
     position: absolute;
     width: 420px;
     top: calc(50vh - 210px);
@@ -109,7 +109,7 @@ a, button {
     transition: 0.25s;
 }
 
-.buy_tickets #eye {
+#buy_tickets #eye {
     position: absolute;
     width: 300px;
     top: calc(50vh - 150px);
@@ -118,13 +118,13 @@ a, button {
     transition: 0.25s;
 }
 
-.buy_tickets #eye:hover {
+#buy_tickets #eye:hover {
     width: 250px;
     top: calc(50vh - 125px);
     right: -7.5%;
 }
 
-.buy_tickets:hover {
+#buy_tickets:hover {
     cursor: pointer;
 }
 
@@ -148,15 +148,15 @@ a, button {
         font-size: 18px;
         line-height: 22px;
     }
-    .buy_tickets, #buy, #eye {
+    #buy_tickets, #buy, #eye {
         z-index: 100;
     }
-    .buy_tickets #buy {
+    #buy_tickets #buy {
         width: 280px;
         top: calc(100vh - 220px);
         right: calc(50vw - 140px);
     }
-    .buy_tickets #eye {
+    #buy_tickets #eye {
         width: 230px;
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
@@ -182,15 +182,15 @@ a, button {
         font-size: 18px;
         line-height: 22px;
     }
-    .buy_tickets, #buy, #eye {
+    #buy_tickets, #buy, #eye {
         z-index: 100;
     }
-    .buy_tickets #buy {
+    #buy_tickets #buy {
         width: 325px;
         top: calc(50vh - 162.5px);
         right: -17.5%;
     }
-    .buy_tickets #eye {
+    #buy_tickets #eye {
         width: 230px;
         top: calc(50vh - 115px);
         right: -10%;
@@ -216,15 +216,15 @@ a, button {
         font-size: 21px;
         line-height: 25.6px;
     }
-    .buy_tickets, #buy, #eye {
+    #buy_tickets, #buy, #eye {
         z-index: 100;
     }
-    .buy_tickets #buy {
+    #buy_tickets #buy {
         width: 325px;
         top: calc(50vh - 162.5px);
         right: -15%;
     }
-    .buy_tickets #eye {
+    #buy_tickets #eye {
         width: 230px;
         top: calc(50vh - 115px);
         right: -10%;
@@ -246,13 +246,13 @@ a, button {
     #logo {
         width: 500px;
     }
-    .buy_tickets #buy {
+    #buy_tickets #buy {
         width: 420px;
         top: calc(50vh - 210px);
         right: -15%;
     }
     
-    .buy_tickets #eye {
+    #buy_tickets #eye {
         width: 300px;
         top: calc(50vh - 150px);
         right: -10%;
@@ -264,7 +264,7 @@ a, button {
     .header {
         margin-left: 120px;
     }
-    .buy_tickets #buy, .buy_tickets #eye {
+    #buy_tickets #buy, #buy_tickets #eye {
         display: block;
     }
     .home {
@@ -274,10 +274,10 @@ a, button {
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {
-    .buy_tickets #buy {
+    #buy_tickets #buy {
         right: -10%;
     }
-    .buy_tickets #eye {
+    #buy_tickets #eye {
         right: -7.5%;
     }
 }
