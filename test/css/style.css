@@ -349,13 +349,19 @@ a, button {
         font-size: 21px;
         line-height: 32px;
     }
-    
     .home p {
         font-size: 21px;
         line-height: 25.6px;
     }
-    #buy_tickets #buy, #buy_tickets #eye {
-        display: none;
+    #buy_tickets #buy {
+        width: 420px;
+        top: calc(100vh - 336px);
+        right: calc(50vw - 210px);
+    }
+    #buy_tickets #eye {
+        width: 300px;
+        top: calc(100vh - 240px);
+        right: calc(50vw - 150px);
     }
     .col-2 {
         margin-top: 76.8px;
