@@ -221,6 +221,30 @@ a, button {
     transition: 0.25s;
 }
 
+.scroll-1,.scroll-2,.scroll-3,.scroll-4 {
+    width: 100%;
+    height: 20vh;
+    overflow: auto;
+    white-space: nowrap;
+}
+.scroll-1 {
+    margin-left: 235px;
+}
+.scroll-2 {
+    margin-left: 215px;
+}
+.scroll-3 {
+    margin-left: 195px;
+}
+.scroll-4 {
+    margin-left: 175px;
+}
+.scroll img {
+    height: 20vh;
+    margin: 0;
+    padding: 0;
+}
+
 /* XSmall devices */
 @media (max-width: 576px) {
     .header {
@@ -255,28 +279,7 @@ a, button {
         right: calc(50vw - 115px);
     }
     .container {
-        padding: 10px;
-        display: grid;
-        grid-template-columns: repeat(4, 96px);
-        grid-template-rows: repeat(1, 1fr);
-        grid-column-gap: 0px;
-        grid-row-gap: 0px;
-        z-index: 10;
-        overflow-x: scroll;
-    }
-    .col-2 {
-        margin-top: 48px;
-    }
-    
-    .col-3 {
-        margin-top: 96px;
-    }
-    
-    .col-4 {
-        margin-top: 144px;
-    }
-    .col-5 {
-        display: hidden;
+        display: none;
     }
     .heading2 {
         margin-left: 30px;
@@ -322,28 +325,7 @@ a, button {
         right: calc(50vw - 115px);
     }
     .container {
-        padding: 10px;
-        display: grid;
-        grid-template-columns: repeat(4, 96px);
-        grid-template-rows: repeat(1, 1fr);
-        grid-column-gap: 0px;
-        grid-row-gap: 0px;
-        z-index: 10;
-        overflow-x: scroll;
-    }
-    .col-2 {
-        margin-top: 64px;
-    }
-    
-    .col-3 {
-        margin-top: 128px;
-    }
-    
-    .col-4 {
-        margin-top: 192px;
-    }
-    .col-5 {
-        display: hidden;
+        display: none;
     }
     .heading2 {
         margin-left: 30px;
@@ -386,6 +368,9 @@ a, button {
         width: 230px;
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
+    }
+    .scroll {
+        display: none;
     }
     .container {
         padding: 60px;
