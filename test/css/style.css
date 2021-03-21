@@ -268,6 +268,9 @@ a, button {
         font-size: 18px;
         line-height: 22px;
     }
+    #buy_tickets, #buy, #eye {
+        z-index: 100;
+    }
     #buy_tickets #buy {
         width: 325px;
         top: calc(100vh - 240px);
@@ -277,6 +280,16 @@ a, button {
         width: 230px;
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
+    }
+    .container {
+        padding: 10px;
+        display: grid;
+        grid-template-columns: repeat(4, 96px);
+        grid-template-rows: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        z-index: 10;
+        overflow-x: scroll;
     }
     .col-2 {
         margin-top: 48px;
@@ -310,6 +323,9 @@ a, button {
     .home p {
         font-size: 18px;
         line-height: 22px;
+    }
+    #buy_tickets, #buy, #eye {
+        z-index: 100;
     }
     #buy_tickets #buy {
         width: 325px;
@@ -353,15 +369,18 @@ a, button {
         font-size: 21px;
         line-height: 25.6px;
     }
+    #buy_tickets, #buy, #eye {
+        z-index: 100;
+    }
     #buy_tickets #buy {
-        width: 420px;
-        top: calc(100vh - 336px);
-        right: calc(50vw - 210px);
+        width: 325px;
+        top: calc(100vh - 240px);
+        right: calc(50vw - 162.5px);
     }
     #buy_tickets #eye {
-        width: 300px;
-        top: calc(100vh - 240px);
-        right: calc(50vw - 150px);
+        width: 230px;
+        top: calc(100vh - 190px);
+        right: calc(50vw - 115px);
     }
     .col-2 {
         margin-top: 76.8px;
