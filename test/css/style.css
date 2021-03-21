@@ -155,7 +155,6 @@ a, button {
 @media (min-width: 576px) {
     .header {
         margin-left: 24px;
-        
     }
     #logo {
         width: 350px;
