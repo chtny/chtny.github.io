@@ -275,7 +275,7 @@ a, button {
     }
     #buy_tickets #buy {
         width: 280px;
-        top: calc(100vh - 240px);
+        top: calc(100vh - 260px);
         right: calc(50vw - 140px);
     }
     #buy_tickets #eye {
