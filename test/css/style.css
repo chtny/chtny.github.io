@@ -20,7 +20,7 @@
 }
 
 .home h2 {
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-family: Space Mono', monospace;
     font-weight: 700;
     font-size: 21px;
     line-height: 32px;
@@ -28,7 +28,7 @@
 }
 
 .home p {
-    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-weight: 400;
     font-size: 21px;
     line-height: 25.6px;
@@ -36,7 +36,7 @@
 
 .paracut {
     max-width: 525px;
-    margin: auto;
+    margin: 0;
 }
 
 .home a {
@@ -54,7 +54,7 @@
 }
 
 .tickets h2 {
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-family: 'Space Mono', monospace;
     font-weight: 700;
     font-size: 30px;
     line-height: 32px;
@@ -62,7 +62,7 @@
 }
 
 .tickets p {
-    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-weight: 400;
     font-size: 21px;
     line-height: 21px;
@@ -74,7 +74,7 @@
     background-color: #1C0C2D;
     padding: 0;
     margin: 15px 0 0 0;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
+    font-family: 'Space Mono', monospace;
     font-weight: 700;
     font-size: 32px;
     line-height: 51px;
@@ -95,134 +95,6 @@ a, button {
 .ticket_mock {
     position: absolute;
     margin-top: calc(50vh - 120px);
-}
-
-/* PAST SPEAKERS */
-
-.container {
-    padding: 60px;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
-    z-index: 10;
-}
-
-.col-2 {
-    margin-top: 128px;
-}
-
-.col-3 {
-    margin-top: 256px;
-}
-
-.col-4 {
-    margin-top: 384px;
-}
-
-.col img {
-    display: block;
-    width: 100%;
-    max-width: 256px;
-    padding: 0;
-    margin: 0;
-    box-shadow: inset 0 0 22px #F4AAB9;
-}
-
-.past_speakers {
-    position: absolute;
-    bottom: -25px;
-}
-
-.past_speakers h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
-/* VIDEO */
-
-.videos {
-    position: absolute;
-    bottom: -25px;
-}
-
-.videos h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
-/* SPONSORS */
-
-.sponsors {
-    position: absolute;
-    bottom: -25px;
-}
-
-.sponsors h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
-/* CONTACT */
-
-.contact {
-    position: absolute;
-    bottom: -25px;
-}
-
-.contact h2 {
-    margin-left: 60px;
-    font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-    font-weight: 700;
-    font-size: 64px;
-    line-height: 64px;
-    color: #F8C57A;
-}
-
-.contact_details {
-    margin-left: 60px;
-    font-family: 'DINPro-Regular', 'Barlow', sans-serif;
-    font-weight: 400;
-    font-size: 21px;
-    line-height: 25.6px;
-}
-
-.section {
-    background-image: url("/images/ishanya_pattern.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-/* PATTERN */
-
-.pattern {
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    z-index: 5 !important;
-    left: 60px;
-    height: 100vh;
-}
-
-.section {
-    z-index: -5;
-}
-
-.section > * {
-    z-index: 10 !important;
 }
 
 #buy_tickets #buy {
@@ -277,30 +149,19 @@ a, button {
         top: calc(100vh - 190px);
         right: calc(50vw - 115px);
     }
-    .container {
-        display: none;
-    }
-    .heading2 {
-        margin-left: 30px;
-        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-        font-weight: 700;
-        font-size: 48px;
-        line-height: 48px;
-        color: #F8C57A;
-    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
     .header {
-        margin-left: 0;
+        margin-left: 24px;
         margin-top: -150px;
     }
     #logo {
         width: 350px;
     }
     .home {
-        text-align: center;
+        text-align: left;
     }
     .home h2 {
         font-size: 18px;
@@ -315,37 +176,26 @@ a, button {
     }
     #buy_tickets #buy {
         width: 325px;
-        top: calc(100vh - 240px);
-        right: calc(50vw - 162.5px);
+        top: calc(50vh - 162.5px);
+        right: -17.5%;
     }
     #buy_tickets #eye {
         width: 230px;
-        top: calc(100vh - 190px);
-        right: calc(50vw - 115px);
-    }
-    .container {
-        display: none;
-    }
-    .heading2 {
-        margin-left: 30px;
-        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-        font-weight: 700;
-        font-size: 48px;
-        line-height: 48px;
-        color: #F8C57A;
+        top: calc(50vh - 115px);
+        right: -10%;
     }
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
     .header {
-        margin-left: 0;
+        margin-left: 60px;
     }
     #logo {
         width: 400px;
     }
     .home {
-        text-align: center;
+        text-align: left;
     }
     .home h2 {
         font-size: 21px;
@@ -360,48 +210,13 @@ a, button {
     }
     #buy_tickets #buy {
         width: 325px;
-        top: calc(100vh - 240px);
-        right: calc(50vw - 162.5px);
+        top: calc(50vh - 162.5px);
+        right: -15%;
     }
     #buy_tickets #eye {
         width: 230px;
-        top: calc(100vh - 190px);
-        right: calc(50vw - 115px);
-    }
-    .scroll {
-        display: none;
-    }
-    .container {
-        padding: 60px;
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(1, 1fr);
-        grid-column-gap: 0px;
-        grid-row-gap: 0px;
-        z-index: 10;
-    }
-    .container {
-    padding: 30px;
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    grid-column-gap: 0px;
-    grid-row-gap: 0px;
-    z-index: 10;
-}
-    .col-2 {
-        margin-top: 76.8px;
-    }
-    
-    .col-3 {
-        margin-top: 153.6px;
-    }
-    
-    .col-4 {
-        margin-top: 230.4px;
-    }
-    .col-5 {
-        display: hidden;
+        top: calc(50vh - 115px);
+        right: -10%;
     }
 }
 
@@ -430,25 +245,6 @@ a, button {
         width: 300px;
         top: calc(50vh - 150px);
         right: -10%;
-    }
-    .col-2 {
-        margin-top: 128px;
-    }
-    
-    .col-3 {
-        margin-top: 256px;
-    }
-    
-    .col-4 {
-        margin-top: 384px;
-    }
-    .heading2 {
-        margin-left: 60px;
-        font-family: 'NeueMachina-Ultrabold', 'Space Mono', monospace;
-        font-weight: 700;
-        font-size: 64px;
-        line-height: 64px;
-        color: #F8C57A;
     }
 }
 
