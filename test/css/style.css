@@ -282,8 +282,6 @@ a, button {
     }
 }
 
-/**/
-
 @keyframes rotation {
     from {
       transform: rotate(0deg);
