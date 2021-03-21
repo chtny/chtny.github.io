@@ -385,8 +385,16 @@ a, button {
     #logo {
         width: 500px;
     }
-    #buy_tickets #buy, #buy_tickets #eye {
-        display: block;
+    #buy_tickets #buy {
+        width: 420px;
+        top: calc(50vh - 210px);
+        right: -15%;
+    }
+    
+    #buy_tickets #eye {
+        width: 300px;
+        top: calc(50vh - 150px);
+        right: -10%;
     }
     .col-2 {
         margin-top: 128px;
