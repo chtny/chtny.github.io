@@ -109,6 +109,10 @@ a, button {
     z-index: 10;
 }
 
+.col {
+    max-width: 256px;
+}
+
 .col-2 {
     margin-top: 128px;
 }
@@ -259,6 +263,17 @@ a, button {
     #buy_tickets #buy, #buy_tickets #eye {
         display: none;
     }
+    .col-2 {
+        margin-top: 48px;
+    }
+    
+    .col-3 {
+        margin-top: 96px;
+    }
+    
+    .col-4 {
+        margin-top: 144px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -276,6 +291,17 @@ a, button {
     #buy_tickets #buy, #buy_tickets #eye {
         display: none;
     }
+    .col-2 {
+        margin-top: 64px;
+    }
+    
+    .col-3 {
+        margin-top: 128px;
+    }
+    
+    .col-4 {
+        margin-top: 192px;
+    }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -291,6 +317,17 @@ a, button {
     }
     #buy_tickets #buy, #buy_tickets #eye {
         display: none;
+    }
+    .col-2 {
+        margin-top: 76.8px;
+    }
+    
+    .col-3 {
+        margin-top: 153.6px;
+    }
+    
+    .col-4 {
+        margin-top: 230.4px;
     }
 }
 
@@ -311,6 +348,17 @@ a, button {
     }
     #buy_tickets #buy, #buy_tickets #eye {
         display: block;
+    }
+    .col-2 {
+        margin-top: 128px;
+    }
+    
+    .col-3 {
+        margin-top: 256px;
+    }
+    
+    .col-4 {
+        margin-top: 384px;
     }
 }
 
