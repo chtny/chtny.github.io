@@ -14,7 +14,6 @@ Have a good day!
 
 - Blog: [/blog/](https://chaitanya.page/blog/) \[[RSS](https://chaitanya.page/rss)]
 - Podcast: [/podcast/](https://chaitanya.page/podcast/) \[[RSS](https://chaitanya.page/feed/podcast)]
-- Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/rss)]
 
 ---
 
@@ -29,3 +28,5 @@ Have a good day!
 ---
 
 - **Buy Me a Coffee: [buymeacoffee.com/chaitanya](https://www.buymeacoffee.com/chaitanya)**
+
+<!-- <p>- Haiku: [/haiku/](https://chaitanya.page/haiku/) \[[RSS](https://chaitanya.page/rss)]</p> -->
