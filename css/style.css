@@ -8,6 +8,14 @@ body {
   padding: 1em;
 }
 
+h1 {
+  font-family: 'Fira Sans', sans-serif;
+}
+
+p {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
 ::-moz-selection {
   background: #30A9DE;
   text-shadow: none;
